@@ -1,0 +1,2 @@
+Le PUSH va permettre d'envoyer nos documents et notre avancement sur le projet sur le repo git.
+Le PULL va permettre de faire l'inverse, prendre les docus sur le repo afin de bosser dessus.

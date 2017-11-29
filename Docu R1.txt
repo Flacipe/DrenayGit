@@ -1,0 +1,1 @@
+La différence entre R1/R2 et R0 est que l'on travaille sur R1/R2 sans modifier R0, afin de travailler sur la même base et en parallèle. De plus, R0 peut servir de sauvegarde
